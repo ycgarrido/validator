@@ -1,2 +1,0 @@
-# validator
-Validate object values
