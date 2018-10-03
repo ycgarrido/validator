@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ycgarrido/validator/issues"
   },
-  "homepage": "https://github.com/ycgarrido/validator#readme"
+  "homepage": "https://github.com/ycgarrido/validator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
